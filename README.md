@@ -8,9 +8,8 @@
 На тестирование затрачено: 6 часов
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Rimmkin/home_work1.1-java/issues/1#issue-699284778
-* https://github.com/Rimmkin/home_work1.1-java/issues/2#issue-699293378
-* https://github.com/Rimmkin/home_work1.1-java/issues/3#issue-699299187
+* [Ошибка при проверке верного ключа №2](https://github.com/Rimmkin/home_work1.1-java/issues/1)
+* [Ошибка при вводе не действующего ключа №5](https://github.com/Rimmkin/home_work1.1-java/issues/3)
 
 ## Описание процесса тестирования
 
